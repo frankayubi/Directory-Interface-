@@ -16,10 +16,12 @@ If a subdirectory is selected:
  Perform a recursive search to find all files that have been modified in the last 24
 hours.
 Present a list of these files to the user and ask them to select one.
-For the selected file, repeat the file display process as described in step 3.
+For the selected file, repeat the file display process as described in 
+
 ![image](https://github.com/frankayubi/Directory-Interface-/assets/98561343/a8fcaa1a-be8d-46e9-816d-a899a1433bbe)
 
 After the operation is completed for either a file or subdirectory, return to the main menu to
 allow the user to select another file or subdirectory, or to exit the script.
+
 ![image](https://github.com/frankayubi/Directory-Interface-/assets/98561343/ebabdd00-2f82-4477-81ff-57f24f73a161)
 
